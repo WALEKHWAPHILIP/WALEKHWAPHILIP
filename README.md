@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WALEKHWAPHILIP
+- 👋 Hi, I’m @WALEKHWAPHILIP www.ai.walsoftcomputers.com
 - 👀 I’m interested in Data Science, Web Development and general programming
 - 🌱 I’m currently learningData Science for Business at BI in Oslo Norway
 - 💞️ I’m looking to collaborate on Data Science, Web Development and general Programming Projects
