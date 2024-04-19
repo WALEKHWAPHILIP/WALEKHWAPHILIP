@@ -63,6 +63,6 @@ https://www.ai.walsoftcomputers.com
 
 ## 📫 How to reach me:
 - Email: philip@walsoftcomputers.com
-- LinkedIn: [Philip Walekhwa](https://www.linkedin.com/in/philip-walekhwa-0531272bb/)
+- LinkedIn: [Philip Walekhwa](https://www.linkedin.com/in/philip-tambiti-leo-walekhwa-564110288/)
 
 
