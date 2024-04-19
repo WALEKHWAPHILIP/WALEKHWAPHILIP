@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WALEKHWAPHILIP
 - 👀 I’m interested in Data Science, Web Development and general programming
-- 🌱 I’m currently learning BI in Oslo Norway
+- 🌱 I’m currently learningData Science for Business at BI in Oslo Norway
 - 💞️ I’m looking to collaborate on Data Science, Web Development and general Programming Projects
 - 📫 How to reach me: walphleo@yahoo.com
 
