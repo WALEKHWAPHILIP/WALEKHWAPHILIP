@@ -3,6 +3,9 @@
 ## 👨‍💻 Who am I?
 I am a Teacher, Web Designer, Web Applications Developer, Database Developer & Manager, Entrepreneur, and Data Scientist/Analyst. I work best in a data-driven environment.
 
+## 👨‍💻 Personal Profile
+https://www.ai.walsoftcomputers.com
+
 ## 🛠️ My Technical Skills
   
 ### 🐍 Coding Languages:
