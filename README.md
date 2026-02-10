@@ -5,8 +5,14 @@
 > I am a data scientist with a strong foundation in **teaching, software and web application development, and applied mathematics**, with experience **founding and operating a technology venture (Walsoft Computers)**. I focus on transforming complex data into **interpretable models and decision-support insights** that drive practical solutions in **education, business, and analytics**.
 
 ## 🔬 Focus & Research Interests
-I work at the intersection of **data science, education, and decision support**.  
-My focus is on **statistical learning, behavioral data, and interpretable models** that support real-world decisions in **education and business**.
+I work at the intersection of **data science, education, and decision support**. 
+My research focuses on:
+
+- **Statistical learning, behavioral data, and interpretable models** supporting real-world decisions in education and business  
+- **Educational Technology, Assessment, and Measurement & Evaluation**  
+- **Educational Inclusion** and equity in learning systems  
+- **AI in learning, examination, and analytics**  
+- **Responsible, reproducible, and ethical research** in education
 
 I bring a background in **mathematics, chemistry, teaching, and data science**, with a strong emphasis on **rigor, ethics, and reproducibility**.
 
