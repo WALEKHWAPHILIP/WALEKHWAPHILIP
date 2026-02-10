@@ -16,7 +16,7 @@ Below are examples of research and analytics projects that align with my work in
 
 ### 🧠 Rethinking Academic Reporting Dashboards
 Research and prototype system combining narrative dashboards with role‑based insights for meaningful educational reporting.  
-🔗 [Prototype](http://bivgs.walsoftai.com/) | [Demo Video](https://www.youtube.com/watch?v=i169TLEQCms&t=183s) | [Research Document](https://www.scribd.com/document/878487263/Rethinking-Academic-Reporting-Through-Narrative-Dashboards-and-Role-Based-Insights)
+🔗 [Prototype](http://bivgs.walsoftai.com/) | [Demo Video](https://www.youtube.com/watch?v=i169TLEQCms&t=183s) | [Zenodo (DOI)](https://doi.org/10.5281/zenodo.15705259) | [Research Document](https://www.scribd.com/document/878487263/Rethinking-Academic-Reporting-Through-Narrative-Dashboards-and-Role-Based-Insights)
 
 ### 📊 Walsoftai Semi‑Categorized 1‑User Call Behaviour
 A real, open-access behavioral dataset for ML & productivity analytics.  
