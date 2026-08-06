@@ -1,82 +1,88 @@
-# Hi, I’m Walekhwa Philip Tambiti Leo
-> *Data Scientist | Learning Analytics | Decision-Focused Modeling*
+# Walekhwa Tambiti Leo Philip
 
-## 👨‍💻 Who am I?
-> I am a data scientist with a strong foundation in **teaching, software and web application development, and applied mathematics**, with experience **founding and operating a technology venture (Walsoft Computers)**. I focus on transforming complex data into **interpretable models and decision-support insights** that drive practical solutions in **education, business, and analytics**.
+> **Applied Data Scientist | Educator | Technology Entrepreneur**
 
-## 🔬 Focus & Research Interests
-I work at the intersection of **data science, education, and decision support**. 
-My research focuses on:
+Building interpretable AI and statistical decision systems for education, research, and business.
 
-- **Statistical learning, behavioral data, and interpretable models** supporting real-world decisions in education and business  
-- **Educational Technology, Assessment, and Measurement & Evaluation**  
-- **Educational Inclusion** and equity in learning systems  
-- **AI in learning, examination, and analytics**  
-- **Responsible, reproducible, and ethical research** in education
+## About Me
 
-I bring a background in **mathematics, chemistry, teaching, and data science**, with a strong emphasis on **rigor, ethics, and reproducibility**.
+I combine data science, mathematics, teaching, software development, and nearly two decades of enterprise experience to build analytical models, educational systems, public learning resources, and decision-support tools.
 
-## 📌 Featured Work & Research
+I am currently pursuing the **Master’s Programme in Assessment, Measurement and Evaluation** at the **University of Oslo**. I completed the **Bachelor in Data Science for Business** at **BI Norwegian Business School** and previously earned a **Bachelor of Education (Science)** in Mathematics and Chemistry from **Egerton University**.
 
-Below are examples of research and analytics projects that align with my work in data science, decision support, and educational analytics:
+My work focuses on converting complex data into transparent evidence that educators, researchers, organisations, and business decision-makers can understand and use.
 
-### 🧠 Rethinking Academic Reporting Dashboards
-Research and prototype system combining narrative dashboards with role‑based insights for meaningful educational reporting.  
-🔗 [Prototype](http://bivgs.walsoftai.com/) | [Demo Video](https://www.youtube.com/watch?v=i169TLEQCms&t=183s) | [Zenodo (DOI)](https://doi.org/10.5281/zenodo.15705259) | [Research Document](https://www.scribd.com/document/878487263/Rethinking-Academic-Reporting-Through-Narrative-Dashboards-and-Role-Based-Insights)
+## Current Focus
 
-### 📊 Walsoftai Semi‑Categorized 1‑User Call Behaviour
-A real, open-access behavioral dataset for ML & productivity analytics.  
-🔗 [Dataset](https://www.kaggle.com/datasets/walekhwatlphilip/walsoftai-semi-categorized-1-user-call-behaviour)
+- Learning analytics, educational assessment, and measurement
+- Statistical learning and interpretable machine learning
+- Decision modelling and business intelligence
+- Behavioural and interaction-level data analysis
+- Responsible, reproducible, and ethical AI
+- Educational and business web systems
 
-### 📈 Walsoft Contact‑Level Call Segmentation (CRM‑ready)
-Behavioral dataset annotated for segmentation and CRM analytics tasks.  
-🔗 [Dataset](https://www.kaggle.com/datasets/walekhwatlphilip/walsoft-contact-level-call-segmentation-crm-ready) | [Analysis Notebook](https://www.kaggle.com/code/walekhwatlphilip/walsoft-crm-contact-segmentation-kmeans-vs-ward)
+## Featured Work
 
-### 📍 Walsoft Decision Modeling Scenarios
-A curated collection of real-world decision modeling examples for education and business analytics.  
-🔗 [Explore Scenarios](https://learn.walsoftcomputers.com/educational_platform/decision_modeling/)
+### BIVGS: Beyond Individual Grades — Visual & Guided Stories
 
-### 🎥 Walsoftai YouTube Channel
-Videos and playlists focused on data analysis and analytics explanations.  
-🔗 [YouTube](https://www.youtube.com/@walsoftai)
+A Django-based academic reporting and school-management platform with role-specific dashboards for students, parents, teachers, heads of department, and school administrators.
 
+[GitHub Repository](https://github.com/WALEKHWAPHILIP/BIVGS) |
+[Live Application](https://bivgs.walsoftai.com/) |
+[Demo Video](https://www.youtube.com/watch?v=i169TLEQCms&t=183s) |
+[Zenodo DOI](https://doi.org/10.5281/zenodo.15705259)
 
-## 🧠 Professional Profile & Capabilities
+### Walsoftai Semi-Categorized 1-User Call Behaviour
 
-I build **data-driven systems and analytical models** at the intersection of **data science, education, and decision support**.  
-My work is grounded in **statistical learning, behavioral data, and interpretability**, with an emphasis on rigor, reproducibility, and real-world use.
+An open behavioural dataset prepared for machine-learning, productivity-analysis, and interaction-pattern research.
 
-I have founded and operated **Walsoft Computers**, where I designed and deployed web applications, databases, and analytics workflows supporting education and small-business decision-making.
+[View Dataset](https://www.kaggle.com/datasets/walekhwatlphilip/walsoftai-semi-categorized-1-user-call-behaviour)
 
-### 🔬 Core Technical Focus
-- Statistical learning and unsupervised modeling (e.g. clustering, segmentation)
-- Behavioral and interaction-level data analysis
-- Feature engineering from raw event and timestamp data
-- Interpretable, decision-oriented models (not black-box optimization)
-- Reproducible analytical workflows (Python & R)
+### Walsoft Contact-Level Call Segmentation
 
-### 🧰 Tools & Technologies (used in practice)
-- **Languages:** Python, R, SQL  
-- **Data & Modeling:** pandas, NumPy, tidyverse, basic scikit-learn workflows  
-- **Visualization & Reporting:** matplotlib, Tableau, Excel  
-- **Web & Systems:** HTML, CSS, JavaScript, Flask (lightweight apps & APIs)  
-- **Databases:** SQLite / SQL-based relational systems  
-- **Versioning & Workflow:** Git, documented pipelines
+A CRM-oriented behavioural dataset and analytical notebook comparing K-means and Ward hierarchical clustering for contact segmentation.
 
-### 🎓 Education & Analytical Foundations
-- Mathematics and statistics for data analysis
-- Applied chemistry (quantitative reasoning, experimentation mindset)
-- Teaching and curriculum design (learning objectives, assessment, feedback)
-- Research methodology and ethical use of data
+[View Dataset](https://www.kaggle.com/datasets/walekhwatlphilip/walsoft-contact-level-call-segmentation-crm-ready) |
+[View Notebook](https://www.kaggle.com/code/walekhwatlphilip/walsoft-crm-contact-segmentation-kmeans-vs-ward)
 
-### 🎯 What I Care About
-- Clear assumptions and transparent models  
-- Methods that can be explained to non-technical stakeholders  
-- Data systems that support **better decisions**, not just better metrics  
-- Responsible and ethical use of educational and behavioral data
+### Walsoft Decision Modelling Scenarios
 
-## 📫 Contact
-- **Email:** philip@walsoftcomputers.com  
-- **LinkedIn:** [Philip Walekhwa](https://www.linkedin.com/in/philip-tambiti-leo-walekhwa-564110288/)
+A collection of applied scenarios connecting mathematical models, constraints, optimisation, and business interpretation.
 
+[Explore the Scenarios](https://learn.walsoftcomputers.com/educational_platform/decision_modeling/)
 
+## Technical Toolkit
+
+- **Programming:** Python, R, SQL, JavaScript
+- **Data analysis:** pandas, NumPy, tidyverse, scikit-learn
+- **Visualisation and reporting:** matplotlib, Power BI, Tableau, Excel
+- **Web development:** Django, Flask, HTML, CSS, JavaScript
+- **Databases:** PostgreSQL, SQLite, relational data modelling
+- **Infrastructure:** Linux, Ubuntu, NGINX, Gunicorn
+- **Workflow:** Git, GitHub, reproducible analytical pipelines
+
+## Professional Foundations
+
+- Mathematics, statistics, and quantitative reasoning
+- Educational assessment, measurement, and evaluation
+- Teaching, curriculum development, and learning design
+- Business operations and technology entrepreneurship
+- Research methodology, reproducibility, and ethical data use
+
+## Working Principles
+
+- State assumptions clearly
+- Establish strong and transparent baselines
+- Prefer interpretable evidence over unexplained complexity
+- Separate prediction from causal conclusions
+- Quantify uncertainty where appropriate
+- Build systems that support decisions, not merely metrics
+- Protect privacy and handle identifiers responsibly
+
+## Connect
+
+- **Portfolio:** [ai.walsoftcomputers.com](https://ai.walsoftcomputers.com/)
+- **Kaggle:** [walekhwatlphilip](https://www.kaggle.com/walekhwatlphilip)
+- **LinkedIn:** [Walekhwa Tambiti Leo Philip](https://www.linkedin.com/in/philip-tambiti-leo-walekhwa-564110288/)
+- **YouTube:** [Walsoftai](https://www.youtube.com/@walsoftai)
+- **Email:** [philip@walsoftcomputers.com](mailto:philip@walsoftcomputers.com)
